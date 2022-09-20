@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido em um desafio proposto pelo site frontendmentor.io
 
 ## Link
 
-link: 
+link: https://product-preview-card-component-chi-tawny.vercel.app/
 
 ## Autor
 
